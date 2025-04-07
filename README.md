@@ -36,5 +36,4 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/prestige-car-detailing.git
-   cd prestige-car-detailing
+   git clone https://github.com/ahmedch21/Prestige-Car-Detailing-React-Application-.git
